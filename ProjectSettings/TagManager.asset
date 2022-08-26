@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - JoyStick
+  - SkillJoyStick
+  - Attack
+  - Skill
+  - Bush
+  - RealBush
+  - ScoreAdmin
+  - UltimateAttackStick
+  - Canvas
+  - PlayerUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGround
+  - PostProcessing
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bar
+    uniqueID: 504526921
+    locked: 0
+  - name: Stick
+    uniqueID: 661019867
+    locked: 0
